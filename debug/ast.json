@@ -1,0 +1,19 @@
+{
+    "type": "Program",
+    "statements": [
+        {
+            "InfixExpression": {
+                "type": "InfixExpression",
+                "left_node": {
+                    "type": "IntegerLiteral",
+                    "value": 5
+                },
+                "operatpr": "+",
+                "right_node": {
+                    "type": "IntegerLiteral",
+                    "value": 5
+                }
+            }
+        }
+    ]
+}
